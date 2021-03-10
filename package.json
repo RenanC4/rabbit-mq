@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  },
+  "name": "message-broker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
